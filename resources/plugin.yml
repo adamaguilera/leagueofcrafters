@@ -1,0 +1,10 @@
+name: LeagueOfCrafters
+authors: [AdamAguilera]
+description: MOBA Plugin
+version: 1.0
+api-version: 1.17
+main: loc.Main
+commands:
+  loc:
+    description: This is som command
+    usage: /loc <heroname>
