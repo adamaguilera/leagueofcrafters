@@ -11,7 +11,7 @@
 
     <name>LeagueOfCrafters</name>
 
-    <description>BETA Royale Plugin</description>
+    <description>BETA MOBA Plugin</description>
     <properties>
         <java.version>16.0.2</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

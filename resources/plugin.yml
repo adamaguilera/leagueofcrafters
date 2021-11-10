@@ -3,7 +3,7 @@ authors: [AdamAguilera]
 description: MOBA Plugin
 version: 1.0
 api-version: 1.17
-main: loc.Main
+main: leagueofcrafters.Main
 commands:
   loc:
     description: This is som command
